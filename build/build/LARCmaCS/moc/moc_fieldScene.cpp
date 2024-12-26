@@ -7,7 +7,7 @@
 *****************************************************************************/
 
 #include <memory>
-#include "../../../../LARCmaCS/fieldScene.h"
+#include "../../../../../LARCmaCS/LARCmaCS/fieldScene.h"
 #include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>
 #include <QtCore/QSharedPointer>

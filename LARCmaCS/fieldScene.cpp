@@ -438,7 +438,6 @@ void FieldScene::drawChristmasTree()
     trunk->setPos(centerX, centerY + 100); 
     this->addItem(trunk);
 
-    // Создаем ветви ёлки
     QColor branchColor(34, 139, 34, 255);
     double branchW = 128;
     double branchH = 32;

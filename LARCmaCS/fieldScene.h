@@ -92,6 +92,6 @@ private:
     double goal_depth;
     double center_circle_radius;
 
-    // Function to draw a Christmas tree
     void drawChristmasTree();
 };
+

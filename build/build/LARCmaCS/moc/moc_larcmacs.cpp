@@ -7,7 +7,7 @@
 *****************************************************************************/
 
 #include <memory>
-#include "../../../../LARCmaCS/larcmacs.h"
+#include "../../../../../LARCmaCS/LARCmaCS/larcmacs.h"
 #include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>
 #include <QtCore/QVector>
