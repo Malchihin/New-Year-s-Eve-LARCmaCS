@@ -1,0 +1,2 @@
+@PATH='C:\Windows\System32;%~dp0\bin$${SUFFIX_STR};$${OTHER_BIN};$${MATLAB_BIN}'
+@LARCmaCS.exe
